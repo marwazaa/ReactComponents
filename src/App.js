@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import ProfilePhoto from "./component/profil/ProfilePhoto"
+import FullName from "./component/profil/FullName"
+import Address from "./component/profil/Address"
 
-import ProfilePhoto from "./Component/profil/ProfilePhoto"
-import FullName from "./Component/profil/FullName"
-import Address from "./Component/profil/Address"
 
 function App() {
   return (
